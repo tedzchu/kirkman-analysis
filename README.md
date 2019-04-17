@@ -13,6 +13,7 @@ In 1850, Thomas Kirkman proposed the following problem:
 > Fifteen young ladies in a school walk out three abreast for seven days in succession: it is required to arrange them daily so that no two shall walk twice abreast.
 
 Suppose we had 15 schoolgirls labeled `A`, `B`, `C`, ..., `O`. Then we may give one possible solution:
+
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | ABC | ADG | AKN | AHL | AEM | AFO | AIJ |
